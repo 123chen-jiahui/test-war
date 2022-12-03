@@ -8,6 +8,5 @@ public class BranchController {
     @GetMapping("/branch")
     public String branch() {
         return "branch";
-
     }
 }
