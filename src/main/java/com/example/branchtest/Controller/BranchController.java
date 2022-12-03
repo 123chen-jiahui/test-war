@@ -9,6 +9,5 @@ public class BranchController {
     public String branch() {
         return "branch";
 
-
     }
 }
